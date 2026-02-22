@@ -1,0 +1,56 @@
+.
+|____.DS_Store
+|____imgs
+|____docs
+|____README.md
+|____folder_tree.txt
+|____examples
+| |____hydro_layers
+| |____hazard_layers
+| |____building_layers
+|____configs
+|____scripts
+|____data
+| |____.DS_Store
+| |____sql_version
+| | |____db
+| | |____points_files
+| |____processed
+| | |____links
+| | |____ml
+| | |____vector
+| | | |____exposure
+| | | |____hazards
+| | | |____hydro
+| | |____rasters
+| |____downloads
+| | |____.DS_Store
+| | |____gml_files
+| | | |____Basisdata_4643_Ardal_25833_MatrikkelenBygning_GML.gml
+| | |____Nedlastingspakke
+| | | |____Basisdata_6800-2_Celle_25833_DTM10UTM33_TIFF.zip
+| | | |__...
+| |____raw
+| | |____timeseries
+| | |____hyd_frost_API
+| | |____vector
+| | | |____stations
+| | | |____exposure
+| | | |____admin
+| | | |____hazards
+| | | |____hydro
+| | |____rasters
+| | | |____wcs_dtms
+|____notebooks
+| |____01_debug_terrain.ipynb
+| |____03_model_training.ipynb
+| |____02_debug_links.ipynb
+| |____00_quick_view.ipynb
+|____src
+| |____pipeline
+| |____processing
+| | |____schemas.py
+| |____datasets
+| |____io
+| |____utils
+| |____models
